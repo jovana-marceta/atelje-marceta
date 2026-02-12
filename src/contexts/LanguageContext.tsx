@@ -31,7 +31,7 @@ const translations: Record<Language, Record<string, string>> = {
     "about.label": "O umetniku",
     "about.title": "Više od dve decenije posvećenosti",
     "about.p1":
-      "Miroslav Marčeta se od 1997. godine aktivno bavi slikarstvom, sa posebnim fokusom na pravoslavne ikone, portrete, pejzaže i replike dela klasičnih srpskih majstora. Njegov put nije akademski, već praktični – hiljade sati provedenih ispred platna. Uči kroz rad i posvećenost svakom delu.",
+      "Miroslav Marčeta iz Novog Sada se od 1997. godine aktivno bavi slikarstvom, sa posebnim fokusom na pravoslavne ikone, portrete, pejzaže i replike dela klasičnih srpskih majstora. Njegov put nije akademski, već praktični – hiljade sati provedenih ispred platna. Uči kroz rad i posvećenost svakom delu.",
     "about.p2":
       "Najveći deo njegovih radova nastao je po preporuci zadovoljnih naručilaca. To poverenje doživljava kao najveće priznanje, svako delo naslikano je sa istim nivoom pažnje i posvećenosti, bilo da je u pitanju mala ikona za dom ili veliki portret za crkvu.",
     "about.p3":
@@ -106,7 +106,7 @@ const translations: Record<Language, Record<string, string>> = {
 
     // Footer
     "footer.description":
-      "Slikar pravoslavnih ikona, portreta i pejzaža • Aktivni od 1997. godine",
+      "Slikar pravoslavnih ikona, portreta i pejzaža • Novi Sad, Srbija • Aktivni od 1997. godine",
     "footer.rights": "Sva prava zadržana",
   },
   "sr-cyrl": {
@@ -131,7 +131,7 @@ const translations: Record<Language, Record<string, string>> = {
     "about.label": "О уметнику",
     "about.title": "Више од две деценије посвећености",
     "about.p1":
-      "Мирослав Марчета се од 1997. године активно бави сликарством, са посебним фокусом на православне иконе, портрете, пејзаже и реплике дела класичних српских мајстора. Његов пут није академски, већ практични – хиљаде сати проведених испред платна. Учи кроз рад и посвећеност сваком делу.",
+      "Мирослав Марчета из Новог Сада се од 1997. године активно бави сликарством, са посебним фокусом на православне иконе, портрете, пејзаже и реплике дела класичних српских мајстора. Његов пут није академски, већ практични – хиљаде сати проведених испред платна. Учи кроз рад и посвећеност сваком делу.",
     "about.p2":
       "Највећи део његових радова настао је по препоруци задовољних наручилаца. То поверење доживљава као највеће признање – свако дело насликано је са истим нивоом пажње и посвећености, било да је у питању мала икона за дом или велики портрет за цркву.",
     "about.p3":
@@ -206,7 +206,7 @@ const translations: Record<Language, Record<string, string>> = {
 
     // Footer
     "footer.description":
-      "Сликар православних икона, портрета и пејзажа • Активни од 1997. године",
+      "Сликар православних икона, портрета и пејзажа • Нови Сад, Србија • Активни од 1997. године",
     "footer.rights": "Сва права задржана",
   },
   en: {
@@ -231,7 +231,7 @@ const translations: Record<Language, Record<string, string>> = {
     "about.label": "About the artist",
     "about.title": "More than three decades of dedication",
     "about.p1":
-      "Since 1997, Miroslav Marceta has been actively engaged in painting, with a special focus on Orthodox icons, portraits, landscapes, and replicas of classical Serbian masters. His path is not academic, but practical – thousands of hours spent in front of the canvas. He learns through work and dedication to each piece.",
+      "Since 1997, Miroslav Marceta from Novi Sad has been actively engaged in painting, with a special focus on Orthodox icons, portraits, landscapes, and replicas of classical Serbian masters. His path is not academic, but practical – thousands of hours spent in front of the canvas. He learns through work and dedication to each piece.",
     "about.p2":
       "Most of his works were created through recommendations from satisfied clients. He sees this trust as the greatest recognition – every piece is painted with the same level of attention and dedication, whether it is a small icon for a home or a large portrait for a church.",
     "about.p3":
@@ -307,7 +307,7 @@ const translations: Record<Language, Record<string, string>> = {
 
     // Footer
     "footer.description":
-      "Painter of Orthodox icons, portraits, and landscapes • Active since 1997",
+      "Painter of Orthodox icons, portraits, and landscapes • Novi Sad, Serbia • Active since 1997",
     "footer.rights": "All rights reserved",
   },
 };
