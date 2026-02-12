@@ -55,6 +55,7 @@ const translations: Record<Language, Record<string, string>> = {
     "gallery.year": "Godina:",
     // Artwork titles
     "artwork.bogorodica": "Bezgrešno začeće, Muriljo",
+    "artwork.georgije": "Sveti Georgije",
 
     "artwork.portrait-elder": "Portret starijeg čoveka",
     "artwork.portrait-young": "Portret dečaka",
@@ -154,6 +155,7 @@ const translations: Record<Language, Record<string, string>> = {
     "gallery.year": "Година:",
     // Artwork titles
     "artwork.bogorodica": "Безгрешно зачеће, Мурило",
+    "artwork.georgije": "Свети Георгије",
 
     "artwork.portrait-elder": "Портрет старијег човека",
     "artwork.portrait-young": "Портрет дечака",
@@ -254,6 +256,7 @@ const translations: Record<Language, Record<string, string>> = {
     // Artwork titles
     "artwork.bogorodica":
       "The Immaculate Conception of Los Venerables, Murillo",
+    "artwork.georgije": "Saint George",
 
     "artwork.portrait-elder": "Portrait of an elderly man",
     "artwork.portrait-young": "Portrait of a young boy",

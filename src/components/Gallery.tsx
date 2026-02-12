@@ -6,10 +6,8 @@ import { useLanguage } from "@/contexts/LanguageContext";
 // Import gallery images
 import icon1 from "@/assets/gallery/icon-1.jpg";
 import icon2 from "@/assets/gallery/icon-2.jpg";
-import portrait1 from "@/assets/gallery/portrait-1.jpg";
 import portrait2 from "@/assets/gallery/portrait-2.jpeg";
 import landscape1 from "@/assets/gallery/landscape-1.jpeg";
-import landscape2 from "@/assets/gallery/landscape-2.jpg";
 import replica1 from "@/assets/gallery/replica-1.jpeg";
 import stilllife1 from "@/assets/gallery/stilllife-1.jpeg";
 import stilllife2 from "@/assets/gallery/stilllife-2.jpeg";
@@ -36,6 +34,15 @@ const artworks: Artwork[] = [
   },
   {
     id: 2,
+    src: icon2,
+    titleKey: "artwork.georgije",
+    category: "icons",
+    techniqueKey: "technique.oil-on-board",
+    dimensions: "40 × 50 cm",
+    year: "2004",
+  },
+  {
+    id: 3,
     src: portrait2,
     titleKey: "artwork.portrait-young",
     category: "portraits",
@@ -44,7 +51,7 @@ const artworks: Artwork[] = [
     year: "2003",
   },
   {
-    id: 3,
+    id: 4,
     src: landscape1,
     titleKey: "artwork.tvrdjava",
     category: "landscapes",
@@ -53,7 +60,7 @@ const artworks: Artwork[] = [
     year: "2022",
   },
   {
-    id: 4,
+    id: 5,
     src: replica1,
     titleKey: "artwork.classical-masters",
     category: "replicas",
@@ -62,7 +69,7 @@ const artworks: Artwork[] = [
     year: "2019",
   },
   {
-    id: 5,
+    id: 6,
     src: stilllife1,
     titleKey: "artwork.stillife-grapes",
     category: "stilllife",
@@ -71,7 +78,7 @@ const artworks: Artwork[] = [
     year: "2008",
   },
    {
-    id: 6,
+    id: 7,
     src: stilllife2,
     titleKey: "artwork.stillife-vase",
     category: "stilllife",
