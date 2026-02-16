@@ -5,6 +5,7 @@ import Gallery from '@/components/Gallery';
 import Commissions from '@/components/Commissions';
 import Contact from '@/components/Contact';
 import Footer from '@/components/Footer';
+import ArtistStudio from '@/components/ArtistStudio';
 
 const Index = () => {
   return (
@@ -13,6 +14,7 @@ const Index = () => {
       <main>
         <Hero />
         <About />
+        <ArtistStudio />
         <Gallery />
         <Commissions />
         <Contact />

@@ -29,17 +29,31 @@ const translations: Record<Language, Record<string, string>> = {
 
     // About
     "about.label": "O umetniku",
-    "about.title": "Više od dve decenije posvećenosti",
+    "about.title": "Miroslav Marčeta",
     "about.p1":
       "Miroslav Marčeta je rođen 1964. godine u Novom Sadu, gde živi i stvara do danas. Kao samouk slikar, od 1997. godine aktivno se bavi slikarstvom, sa posebnim fokusom na pravoslavne ikone, portrete, pejzaže i replike dela klasičnih srpskih majstora.",
     "about.p2":
-      "Njegov put nije akademski, već praktični, hiljade sati provedenih ispred platna, učeći kroz rad i posvećenost svakom delu. Za skoro tri decenije umetničkog rada, stvorio je preko 1500 slika, svaku sa istom pažnjom i posvećenošću. Ta posvećenost donela mu je priznanje kako kod kolega tako i kod ljubitelja umetnosti.",
-    "about.p3":
-      "Veruje da dobro umetničko delo nastaje spojem veštine, strpljenja i duboke povezanosti sa temom. Svaka linija, svaka nijansa boje nosi deo te posvećenosti.",
+      "Njegov put nije akademski, već praktični – hiljade sati provedenih ispred platna, učeći kroz rad i posvećenost svakom delu. Za skoro tri decenije umetničkog rada, stvorio je impresivnih preko 1500 slika, svaku sa istom pažnjom i posvećenošću. Ta posvećenost donela mu je priznanje kako kod kolega tako i kod ljubitelja umetnosti.",
+    "about.awards.title": "Nagrade i priznanja",
+    "about.award1":
+      "2006 – Pohvala od stručnog žirija VI Zrenjaninskog susreta slikara, dodeljuje Udruženje likovnih stvaralaca Novi Sad (ULS)",
+    "about.exhibitions.title": "Učešća na izložbama",
+    "about.exhibition1":
+      "2006 – Kolektivna prolećna izložba slika članova udruženja ULS, Galerija Kulturnog centra Mladost, Futog (18.05.2006.)",
+    "about.exhibition2":
+      "2006 – VI Zrenjanski susret slikara, Galerija NVO, Zrenjanin (29.09–10.10.2006.)",
+    "about.exhibition3":
+      "2008 – VII Zrenjanski susret slikara, Mali izložbeni salon Narodnog muzeja u Zrenjaninu (19–28.09.2008.)",
+    "about.exhibition4":
+      "2008 – Godišnja izložba slika, Udruženje likovnih stvaralaca Novog Sada, Društvo književnika Vojvodine, Novi Sad",
     "about.stat.years": "Godina iskustva",
     "about.stat.works": "Naslikanih dela",
     "about.stat.icons": "Ikona",
     "about.stat.dedication": "Posvećenost",
+
+    // Studio
+    "studio.title": "Atelje umetnika",
+    "studio.label": "Upoznajte prostor gde nastaju dela",
 
     // Gallery
     "gallery.label": "Galerija radova",
@@ -56,9 +70,9 @@ const translations: Record<Language, Record<string, string>> = {
     // Artwork titles
     "artwork.bogorodica": "Bezgrešno začeće, Muriljo",
     "artwork.bogorodica2": "Presveta Bogorodica sa Isusom",
-       "artwork.bogorodica3": "Presveta Bogorodica sa Isusom",
+    "artwork.bogorodica3": "Presveta Bogorodica sa Isusom",
     "artwork.georgije": "Sveti Georgije",
-     "artwork.sveti-nikola": "Sveti Nikola",
+    "artwork.sveti-nikola": "Sveti Nikola",
 
     "artwork.portrait-elder": "Portret starijeg čoveka",
     "artwork.portrait-young": "Portret dečaka",
@@ -134,17 +148,31 @@ const translations: Record<Language, Record<string, string>> = {
 
     // About
     "about.label": "О уметнику",
-    "about.title": "Више од две деценије посвећености",
+    "about.title": "Мирослав Марчета",
     "about.p1":
       "Мирослав Марчета је рођен 1964. године у Новом Саду, где живи и ствара до данас. Као самоук сликар, од 1997. године активно се бави сликарством, са посебним фокусом на православне иконе, портрете, пејзаже и реплике дела класичних српских мајстора.",
     "about.p2":
-      "Његов put није академски, већ практични, хиљаде сати проведених испред платна, учећи кроз рад и посвећеност сваком делу. За скоро три деценије уметничког рада, створио је преко 1500 слика, сваку са истом пажњом и посвећеношћу. Та посвећеност донела му је признање како код колега тако и код љубитеља уметности.",
-    "about.p3":
-      "Верује да добро уметничко дело настаје спојем вештине, стрпљења и дубоке повезаности са темом. Свака линија, свака нијанса боје  носи део те посвећености.",
+      "Његов пут није академски, већ практични – хиљаде сати проведених испред платна, учећи кроз рад и посвећеност сваком делу. За скоро три деценије уметничког рада, створио је импресивних преко 1500 слика, сваку са истом пажњом и посвећеношћу. Та посвећеност донела му је признање како код колега тако и код љубитеља уметности.",
+    "about.awards.title": "Награде и признања",
+    "about.award1":
+      "2006 – Похвала од стручног жирија VI Зрењанинског сусрета сликара, додељује Удружење ликовних стваралаца Нови Сад (УЛС)",
+    "about.exhibitions.title": "Учешћа на изложбама",
+    "about.exhibition1":
+      "2006 – Колективна пролећна изложба слика чланова удружења УЛС, Галерија Културног центра Младост, Футог (18.05.2006.)",
+    "about.exhibition2":
+      "2006 – VI Зрењански сусрет сликара, Галерија НВО, Зрењанин (29.09–10.10.2006.)",
+    "about.exhibition3":
+      "2008 – VII Зрењански сусрет сликара, Мали изложбени салон Народног музеја у Зрењанину (19–28.09.2008.)",
+    "about.exhibition4":
+      "2008 – Годишња изложба слика, Удружење ликовних стваралаца Новог Сада, Друштво књижевника Војводине, Нови Сад",
     "about.stat.years": "Година искуства",
     "about.stat.works": "Насликаних дела",
     "about.stat.icons": "Икона",
     "about.stat.dedication": "Посвећеност",
+
+    // Studio
+    "studio.title": "Атељe уметника",
+    "studio.label": "Упознајте простор где настају дела",
 
     // Gallery
     "gallery.label": "Галерија радова",
@@ -161,15 +189,15 @@ const translations: Record<Language, Record<string, string>> = {
     // Artwork titles
     "artwork.bogorodica": "Безгрешно зачеће, Мурило",
     "artwork.bogorodica2": "Пресвета Богородица са Исусом",
-       "artwork.bogorodica3": "Пресвета Богородица са Исусом",
+    "artwork.bogorodica3": "Пресвета Богородица са Исусом",
     "artwork.georgije": "Свети Георгије",
-     "artwork.sveti-nikola": "Свети Никола",
+    "artwork.sveti-nikola": "Свети Никола",
 
     "artwork.portrait-elder": "Портрет старијег човека",
     "artwork.portrait-young": "Портрет дечака",
-        "artwork.portrait-jovana": "Портрет Јоване",
+    "artwork.portrait-jovana": "Портрет Јоване",
     "artwork.tvrdjava": "Петроварадинска тврђава",
-        "artwork.prvi-preki-put": "Први преки пут",
+    "artwork.prvi-preki-put": "Први преки пут",
     "artwork.classical-masters":
       "Реплика слике Les Licornes (The Unicorns) од Густава Мороа",
     "artwork.stillife-grapes": "Мртва природа са грожђем",
@@ -239,17 +267,31 @@ const translations: Record<Language, Record<string, string>> = {
 
     // About
     "about.label": "About the artist",
-    "about.title": "More than two decades of dedication",
+    "about.title": "Miroslav Marčeta",
     "about.p1":
-      "Miroslav Marčeta was born in 1964 in Novi Sad, where he lives and creates to this day. As a self-taught painter, he has been actively engaged in painting since 1997, with a special focus on Orthodox icons, portraits, landscapes, and replicas of works by classical Serbian masters.",
+      "Miroslav Marčeta was born in 1964 in Novi Sad, where he lives and creates to this day. As a self-taught painter, he has been actively painting since 1997, with a special focus on Orthodox icons, portraits, landscapes, and replicas of classical Serbian masters.",
     "about.p2":
-      "His path is not academic, but practical—thousands of hours spent in front of the canvas, learning through work and dedication to each piece. Over nearly three decades of artistic work, he has created over 1,500 paintings, each with the same care and dedication. This devotion has earned him recognition among both colleagues and art lovers.",
-    "about.p3":
-      "He believes that good artwork is created through a combination of skill, patience, and a deep connection with the subject. Every line, every shade of color  carries a part of that dedication.",
+      "His path is not academic, but practical – thousands of hours spent in front of the canvas, learning through work and dedication to each piece. Over nearly three decades of artistic work, he has created an impressive body of over 1,500 paintings, each with the same attention and dedication. This commitment has earned him recognition from both colleagues and art enthusiasts.",
+    "about.awards.title": "Awards and recognition",
+    "about.award1":
+      "2006 – Commendation from the professional jury of the VI Zrenjanin Painters' Meeting, awarded by the Association of Visual Artists Novi Sad (ULS)",
+    "about.exhibitions.title": "Exhibition participation",
+    "about.exhibition1":
+      "2006 – Collective spring painting exhibition of ULS members, Gallery of Cultural Center Mladost, Futog (May 18, 2006)",
+    "about.exhibition2":
+      "2006 – VI Zrenjanin Painters' Meeting, NVO Gallery, Zrenjanin (Sep 29 – Oct 10, 2006)",
+    "about.exhibition3":
+      "2008 – VII Zrenjanin Painters' Meeting, Small Exhibition Hall of the National Museum in Zrenjanin (Sep 19–28, 2008)",
+    "about.exhibition4":
+      "2008 – Annual painting exhibition, Association of Visual Artists of Novi Sad, Writers' Society of Vojvodina, Novi Sad",
     "about.stat.years": "Years of experience",
     "about.stat.works": "Painted works",
     "about.stat.icons": "Icons",
     "about.stat.dedication": "Dedication",
+
+    // Studio
+    "studio.title": "Artist's studio",
+    "studio.label": "Get to know the space where the artworks are created",
 
     // Gallery
     "gallery.label": "Gallery of works",
@@ -266,8 +308,8 @@ const translations: Record<Language, Record<string, string>> = {
     // Artwork titles
     "artwork.bogorodica":
       "The Immaculate Conception of Los Venerables, Murillo",
-      "artwork.bogorodica2": "The Most Holy Theotokos with Jesus",
-        "artwork.bogorodica3": "The Most Holy Theotokos with Jesus",
+    "artwork.bogorodica2": "The Most Holy Theotokos with Jesus",
+    "artwork.bogorodica3": "The Most Holy Theotokos with Jesus",
     "artwork.georgije": "Saint George",
     "artwork.sveti-nikola": "Saint Nicholas",
 
@@ -275,7 +317,7 @@ const translations: Record<Language, Record<string, string>> = {
     "artwork.portrait-young": "Portrait of a young boy",
     "artwork.portrait-jovana": "Portrait of Jovana",
     "artwork.tvrdjava": "Petrovaradin Fortress",
-        "artwork.prvi-preki-put": "Road",
+    "artwork.prvi-preki-put": "Road",
     "artwork.classical-masters":
       "Replica of Les Licornes (The Unicorns) by Gustave Moreau",
     "artwork.stillife-grapes": "Still life with grapes",
