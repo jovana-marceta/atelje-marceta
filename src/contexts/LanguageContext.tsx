@@ -33,7 +33,7 @@ const translations: Record<Language, Record<string, string>> = {
     "about.p1":
       "Miroslav Marčeta je rođen 1964. godine u Novom Sadu, gde živi i stvara do danas. Kao samouk slikar, od 1997. godine aktivno se bavi slikarstvom, sa posebnim fokusom na pravoslavne ikone, portrete, pejzaže i replike dela klasičnih srpskih majstora.",
     "about.p2":
-      "Njegov put nije akademski, već praktični, hiljade sati provedenih ispred platna, učeći kroz rad i posvećenost svakom delu. Za skoro tri decenije umetničkog rada, stvorio je impresivnih preko 1500 slika, svaku sa istom pažnjom i posvećenošću. Ta posvećenost donela mu je priznanje kako kod kolega tako i kod ljubitelja umetnosti.",
+      "Njegov put nije akademski, već praktični, hiljade sati provedenih ispred platna, učeći kroz rad i posvećenost svakom delu. Za skoro tri decenije umetničkog rada, stvorio je preko 1500 slika, svaku sa istom pažnjom i posvećenošću. Ta posvećenost donela mu je priznanje kako kod kolega tako i kod ljubitelja umetnosti.",
     "about.p3":
       "Veruje da dobro umetničko delo nastaje spojem veštine, strpljenja i duboke povezanosti sa temom. Svaka linija, svaka nijansa boje nosi deo te posvećenosti.",
     "about.stat.years": "Godina iskustva",
@@ -55,11 +55,16 @@ const translations: Record<Language, Record<string, string>> = {
     "gallery.year": "Godina:",
     // Artwork titles
     "artwork.bogorodica": "Bezgrešno začeće, Muriljo",
+    "artwork.bogorodica2": "Presveta Bogorodica sa Isusom",
+       "artwork.bogorodica3": "Presveta Bogorodica sa Isusom",
     "artwork.georgije": "Sveti Georgije",
+     "artwork.sveti-nikola": "Sveti Nikola",
 
     "artwork.portrait-elder": "Portret starijeg čoveka",
     "artwork.portrait-young": "Portret dečaka",
+    "artwork.portrait-jovana": "Portret Jovane",
     "artwork.tvrdjava": "Petrovaradinska tvrđava",
+    "artwork.prvi-preki-put": "Prvi preki put",
     "artwork.classical-masters":
       "Replika slike Les Licornes (The Unicorns) od Gustava Moreau",
     "artwork.stillife-grapes": "Mrtva priroda sa grožđem",
@@ -133,7 +138,7 @@ const translations: Record<Language, Record<string, string>> = {
     "about.p1":
       "Мирослав Марчета је рођен 1964. године у Новом Саду, где живи и ствара до данас. Као самоук сликар, од 1997. године активно се бави сликарством, са посебним фокусом на православне иконе, портрете, пејзаже и реплике дела класичних српских мајстора.",
     "about.p2":
-      "Највећи део његових радова настао је по препоруци задовољних наручилаца. То поверење доживљава као највеће признање – свако дело насликано је са истим нивоом пажње и посвећености, било да је у питању мала икона за дом или велики портрет за цркву.",
+      "Његов put није академски, већ практични, хиљаде сати проведених испред платна, учећи кроз рад и посвећеност сваком делу. За скоро три деценије уметничког рада, створио је преко 1500 слика, сваку са истом пажњом и посвећеношћу. Та посвећеност донела му је признање како код колега тако и код љубитеља уметности.",
     "about.p3":
       "Верује да добро уметничко дело настаје спојем вештине, стрпљења и дубоке повезаности са темом. Свака линија, свака нијанса боје  носи део те посвећености.",
     "about.stat.years": "Година искуства",
@@ -155,11 +160,16 @@ const translations: Record<Language, Record<string, string>> = {
     "gallery.year": "Година:",
     // Artwork titles
     "artwork.bogorodica": "Безгрешно зачеће, Мурило",
+    "artwork.bogorodica2": "Пресвета Богородица са Исусом",
+       "artwork.bogorodica3": "Пресвета Богородица са Исусом",
     "artwork.georgije": "Свети Георгије",
+     "artwork.sveti-nikola": "Свети Никола",
 
     "artwork.portrait-elder": "Портрет старијег човека",
     "artwork.portrait-young": "Портрет дечака",
-    "artwork.tvrdjava": "Српски пропланци",
+        "artwork.portrait-jovana": "Портрет Јоване",
+    "artwork.tvrdjava": "Петроварадинска тврђава",
+        "artwork.prvi-preki-put": "Први преки пут",
     "artwork.classical-masters":
       "Реплика слике Les Licornes (The Unicorns) од Густава Мороа",
     "artwork.stillife-grapes": "Мртва природа са грожђем",
@@ -231,9 +241,9 @@ const translations: Record<Language, Record<string, string>> = {
     "about.label": "About the artist",
     "about.title": "More than two decades of dedication",
     "about.p1":
-      "Miroslav Marceta was born in 1964 in Novi Sad, where he lives and creates to this day. As a self-taught painter, since 1997 he has been actively engaged in painting, with a special focus on Orthodox icons, portraits, landscapes, and replicas of works by classical Serbian masters.",
+      "Miroslav Marčeta was born in 1964 in Novi Sad, where he lives and creates to this day. As a self-taught painter, he has been actively engaged in painting since 1997, with a special focus on Orthodox icons, portraits, landscapes, and replicas of works by classical Serbian masters.",
     "about.p2":
-      "Most of his works were created through recommendations from satisfied clients. He sees this trust as the greatest recognition – every piece is painted with the same level of attention and dedication, whether it is a small icon for a home or a large portrait for a church.",
+      "His path is not academic, but practical—thousands of hours spent in front of the canvas, learning through work and dedication to each piece. Over nearly three decades of artistic work, he has created over 1,500 paintings, each with the same care and dedication. This devotion has earned him recognition among both colleagues and art lovers.",
     "about.p3":
       "He believes that good artwork is created through a combination of skill, patience, and a deep connection with the subject. Every line, every shade of color  carries a part of that dedication.",
     "about.stat.years": "Years of experience",
@@ -256,11 +266,16 @@ const translations: Record<Language, Record<string, string>> = {
     // Artwork titles
     "artwork.bogorodica":
       "The Immaculate Conception of Los Venerables, Murillo",
+      "artwork.bogorodica2": "The Most Holy Theotokos with Jesus",
+        "artwork.bogorodica3": "The Most Holy Theotokos with Jesus",
     "artwork.georgije": "Saint George",
+    "artwork.sveti-nikola": "Saint Nicholas",
 
     "artwork.portrait-elder": "Portrait of an elderly man",
     "artwork.portrait-young": "Portrait of a young boy",
+    "artwork.portrait-jovana": "Portrait of Jovana",
     "artwork.tvrdjava": "Petrovaradin Fortress",
+        "artwork.prvi-preki-put": "Road",
     "artwork.classical-masters":
       "Replica of Les Licornes (The Unicorns) by Gustave Moreau",
     "artwork.stillife-grapes": "Still life with grapes",

@@ -40,7 +40,7 @@ const artworks: Artwork[] = [
   {
     id: 2,
     src: icon3,
-    titleKey: "artwork.bogorodica",
+    titleKey: "artwork.bogorodica2",
     category: "icons",
     techniqueKey: "technique.oil-on-board",
     dimensions: "40 × 50 cm",
@@ -49,7 +49,7 @@ const artworks: Artwork[] = [
   {
     id: 3,
     src: icon4,
-    titleKey: "artwork.georgije",
+    titleKey: "artwork.bogorodica3",
     category: "icons",
     techniqueKey: "technique.oil-on-board",
     dimensions: "40 × 50 cm",
@@ -58,7 +58,7 @@ const artworks: Artwork[] = [
   {
     id: 4,
     src: icon5,
-    titleKey: "artwork.georgije",
+    titleKey: "artwork.sveti-nikola",
     category: "icons",
     techniqueKey: "technique.oil-on-board",
     dimensions: "40 × 50 cm",
@@ -86,7 +86,7 @@ const artworks: Artwork[] = [
   {
     id: 7,
     src: portrait3,
-    titleKey: "artwork.portrait-young",
+    titleKey: "artwork.portrait-jovana",
     category: "portraits",
     techniqueKey: "technique.oil-on-canvas",
     dimensions: "50 × 70 cm",
@@ -104,7 +104,7 @@ const artworks: Artwork[] = [
   {
     id: 9,
     src: landscape2,
-    titleKey: "artwork.tvrdjava",
+    titleKey: "artwork.prvi-preki-put",
     category: "landscapes",
     techniqueKey: "technique.oil-on-canvas",
     dimensions: "70 × 100 cm",
