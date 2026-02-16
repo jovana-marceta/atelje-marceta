@@ -6,8 +6,13 @@ import { useLanguage } from "@/contexts/LanguageContext";
 // Import gallery images
 import icon1 from "@/assets/gallery/icon-1.jpg";
 import icon2 from "@/assets/gallery/icon-2.jpg";
+import icon3 from "@/assets/gallery/icon-3.jpg";
+import icon4 from "@/assets/gallery/icon-4.jpg";
+import icon5 from "@/assets/gallery/icon-5.jpg";
 import portrait2 from "@/assets/gallery/portrait-2.jpeg";
+import portrait3 from "@/assets/gallery/potrait-3.jpeg";
 import landscape1 from "@/assets/gallery/landscape-1.jpeg";
+import landscape2 from "@/assets/gallery/landscape-2.jpg";
 import replica1 from "@/assets/gallery/replica-1.jpeg";
 import stilllife1 from "@/assets/gallery/stilllife-1.jpeg";
 import stilllife2 from "@/assets/gallery/stilllife-2.jpeg";
@@ -34,7 +39,16 @@ const artworks: Artwork[] = [
   },
   {
     id: 2,
-    src: icon2,
+    src: icon3,
+    titleKey: "artwork.bogorodica",
+    category: "icons",
+    techniqueKey: "technique.oil-on-board",
+    dimensions: "40 × 50 cm",
+    year: "2001",
+  },
+  {
+    id: 3,
+    src: icon4,
     titleKey: "artwork.georgije",
     category: "icons",
     techniqueKey: "technique.oil-on-board",
@@ -42,7 +56,26 @@ const artworks: Artwork[] = [
     year: "2004",
   },
   {
-    id: 3,
+    id: 4,
+    src: icon5,
+    titleKey: "artwork.georgije",
+    category: "icons",
+    techniqueKey: "technique.oil-on-board",
+    dimensions: "40 × 50 cm",
+    year: "2004",
+  },
+  {
+    id: 5,
+    src: icon2,
+    titleKey: "artwork.georgije",
+    category: "icons",
+    techniqueKey: "technique.oil-on-board",
+    dimensions: "40 × 50 cm",
+    year: "2004",
+  },
+
+  {
+    id: 6,
     src: portrait2,
     titleKey: "artwork.portrait-young",
     category: "portraits",
@@ -51,7 +84,16 @@ const artworks: Artwork[] = [
     year: "2003",
   },
   {
-    id: 4,
+    id: 7,
+    src: portrait3,
+    titleKey: "artwork.portrait-young",
+    category: "portraits",
+    techniqueKey: "technique.oil-on-canvas",
+    dimensions: "50 × 70 cm",
+    year: "2003",
+  },
+  {
+    id: 8,
     src: landscape1,
     titleKey: "artwork.tvrdjava",
     category: "landscapes",
@@ -60,7 +102,16 @@ const artworks: Artwork[] = [
     year: "2022",
   },
   {
-    id: 5,
+    id: 9,
+    src: landscape2,
+    titleKey: "artwork.tvrdjava",
+    category: "landscapes",
+    techniqueKey: "technique.oil-on-canvas",
+    dimensions: "70 × 100 cm",
+    year: "2022",
+  },
+  {
+    id: 10,
     src: replica1,
     titleKey: "artwork.classical-masters",
     category: "replicas",
@@ -69,7 +120,7 @@ const artworks: Artwork[] = [
     year: "2019",
   },
   {
-    id: 6,
+    id: 11,
     src: stilllife1,
     titleKey: "artwork.stillife-grapes",
     category: "stilllife",
@@ -77,8 +128,8 @@ const artworks: Artwork[] = [
     dimensions: "80 × 100 cm",
     year: "2008",
   },
-   {
-    id: 7,
+  {
+    id: 12,
     src: stilllife2,
     titleKey: "artwork.stillife-vase",
     category: "stilllife",

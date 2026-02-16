@@ -31,9 +31,9 @@ const translations: Record<Language, Record<string, string>> = {
     "about.label": "O umetniku",
     "about.title": "Više od dve decenije posvećenosti",
     "about.p1":
-      "Miroslav Marčeta iz Novog Sada se od 1997. godine aktivno bavi slikarstvom, sa posebnim fokusom na pravoslavne ikone, portrete, pejzaže i replike dela klasičnih srpskih majstora. Njegov put nije akademski, već praktični – hiljade sati provedenih ispred platna. Uči kroz rad i posvećenost svakom delu.",
+      "Miroslav Marčeta je rođen 1964. godine u Novom Sadu, gde živi i stvara do danas. Kao samouk slikar, od 1997. godine aktivno se bavi slikarstvom, sa posebnim fokusom na pravoslavne ikone, portrete, pejzaže i replike dela klasičnih srpskih majstora.",
     "about.p2":
-      "Najveći deo njegovih radova nastao je po preporuci zadovoljnih naručilaca. To poverenje doživljava kao najveće priznanje, svako delo naslikano je sa istim nivoom pažnje i posvećenosti, bilo da je u pitanju mala ikona za dom ili veliki portret za crkvu.",
+      "Njegov put nije akademski, već praktični, hiljade sati provedenih ispred platna, učeći kroz rad i posvećenost svakom delu. Za skoro tri decenije umetničkog rada, stvorio je impresivnih preko 1500 slika, svaku sa istom pažnjom i posvećenošću. Ta posvećenost donela mu je priznanje kako kod kolega tako i kod ljubitelja umetnosti.",
     "about.p3":
       "Veruje da dobro umetničko delo nastaje spojem veštine, strpljenja i duboke povezanosti sa temom. Svaka linija, svaka nijansa boje nosi deo te posvećenosti.",
     "about.stat.years": "Godina iskustva",
@@ -131,7 +131,7 @@ const translations: Record<Language, Record<string, string>> = {
     "about.label": "О уметнику",
     "about.title": "Више од две деценије посвећености",
     "about.p1":
-      "Мирослав Марчета из Новог Сада се од 1997. године активно бави сликарством, са посебним фокусом на православне иконе, портрете, пејзаже и реплике дела класичних српских мајстора. Његов пут није академски, већ практични – хиљаде сати проведених испред платна. Учи кроз рад и посвећеност сваком делу.",
+      "Мирослав Марчета је рођен 1964. године у Новом Саду, где живи и ствара до данас. Као самоук сликар, од 1997. године активно се бави сликарством, са посебним фокусом на православне иконе, портрете, пејзаже и реплике дела класичних српских мајстора.",
     "about.p2":
       "Највећи део његових радова настао је по препоруци задовољних наручилаца. То поверење доживљава као највеће признање – свако дело насликано је са истим нивоом пажње и посвећености, било да је у питању мала икона за дом или велики портрет за цркву.",
     "about.p3":
@@ -162,7 +162,7 @@ const translations: Record<Language, Record<string, string>> = {
     "artwork.tvrdjava": "Српски пропланци",
     "artwork.classical-masters":
       "Реплика слике Les Licornes (The Unicorns) од Густава Мороа",
-     "artwork.stillife-grapes": "Мртва природа са грожђем",
+    "artwork.stillife-grapes": "Мртва природа са грожђем",
     "artwork.stillife-vase": "Мртва природа са вазом",
     // Techniques
     "technique.oil-on-board": "Уље на дасци",
@@ -229,9 +229,9 @@ const translations: Record<Language, Record<string, string>> = {
 
     // About
     "about.label": "About the artist",
-    "about.title": "More than three decades of dedication",
+    "about.title": "More than two decades of dedication",
     "about.p1":
-      "Since 1997, Miroslav Marceta from Novi Sad has been actively engaged in painting, with a special focus on Orthodox icons, portraits, landscapes, and replicas of classical Serbian masters. His path is not academic, but practical – thousands of hours spent in front of the canvas. He learns through work and dedication to each piece.",
+      "Miroslav Marceta was born in 1964 in Novi Sad, where he lives and creates to this day. As a self-taught painter, since 1997 he has been actively engaged in painting, with a special focus on Orthodox icons, portraits, landscapes, and replicas of works by classical Serbian masters.",
     "about.p2":
       "Most of his works were created through recommendations from satisfied clients. He sees this trust as the greatest recognition – every piece is painted with the same level of attention and dedication, whether it is a small icon for a home or a large portrait for a church.",
     "about.p3":
